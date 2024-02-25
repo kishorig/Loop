@@ -1,0 +1,101 @@
+[
+    {
+        "id": 2,
+        "image": "https://challenge-api.view.agentur-loop.com/members/member2.jpg",
+        "name": "Crew Member 2",
+        "duties": "Helmsman",
+        "duty_slugs": [
+          "helmsman"
+        ]
+      },
+      {
+        "id": 3,
+        "image": "https://challenge-api.view.agentur-loop.com/members/member3.jpg",
+        "name": "Crew Member 3",
+        "duties": "Helmsman and Tactic",
+        "duty_slugs": [
+          "helmsman",
+          "tactic"
+        ]
+      },
+      {
+        "id": 4,
+        "image": "https://challenge-api.view.agentur-loop.com/members/member4.jpg",
+        "name": "Crew Member 4",
+        "duties": "Main Helmsman",
+        "duty_slugs": [
+          "helmsman"
+        ]
+      },
+      {
+        "id": 5,
+        "image": "https://challenge-api.view.agentur-loop.com/members/member1.jpg",
+        "name": "Crew Member 5",
+        "duties": "Helmsman and Trim",
+        "duty_slugs": [
+          "helmsman",
+          "trim"
+        ]
+      },
+      {
+        "id": 8,
+        "image": "https://challenge-api.view.agentur-loop.com/members/member4.jpg",
+        "name": "Crew Member 8",
+        "duties": "Helmsman and Trim",
+        "duty_slugs": [
+          "helmsman",
+          "trim"
+        ]
+      },
+      {
+        "id": 9,
+        "image": "https://challenge-api.view.agentur-loop.com/members/member1.jpg",
+        "name": "Crew Member 9",
+        "duties": "Junior Helmsman",
+        "duty_slugs": [
+          "helmsman"
+        ]
+      },
+      {
+        "id": 11,
+        "image": "https://challenge-api.view.agentur-loop.com/members/member3.jpg",
+        "name": "Crew Member 11",
+        "duties": "Senior Helmsman and Trim",
+        "duty_slugs": [
+          "helmsman",
+          "trim"
+        ]
+      },
+      {
+        "id": 16,
+        "image": "https://challenge-api.view.agentur-loop.com/members/member4.jpg",
+        "name": "Crew Member 16",
+        "duties": "Helmsman and Trim",
+        "duty_slugs": [
+          "trim",
+          "helmsman"
+        ]
+      },
+      {
+        "id": 19,
+        "image": "https://challenge-api.view.agentur-loop.com/members/member3.jpg",
+        "name": "Crew Member 19",
+        "duties": "Helmsman and Tactic",
+        "duty_slugs": [
+          "tactic",
+          "helmsman"
+        ]
+      },
+      {
+        "id": 21,
+        "image": "https://challenge-api.view.agentur-loop.com/members/member1.jpg",
+        "name": "Crew Member 21",
+        "duties": "Helmsman",
+        "duty_slugs": [
+          "helmsman"
+        ]
+      }
+]
+  
+
+
